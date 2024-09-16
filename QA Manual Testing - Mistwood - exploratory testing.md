@@ -1,1 +1,0 @@
-## Exploratory tests - Empik/EmpikFoto
