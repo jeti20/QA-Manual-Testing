@@ -4,4 +4,4 @@ This repository contains a set of manual test cases for QA testing, along with b
 
 ### QA Manual Testing
 
-- **[Empik/EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Mistwood.md)**
+👉 **[Empik/EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
