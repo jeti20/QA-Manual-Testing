@@ -6,3 +6,6 @@ This page is dedicated to showcasing the results of manual testing for the websi
 
 👉 **[Exploratory tests](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto-%20exploratory%20testing.md)**
 
+👉 **[Test cases](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto-%20test%20cases.md)**
+
+
